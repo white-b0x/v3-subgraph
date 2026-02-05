@@ -1,7 +1,9 @@
 {
-  "name": "uniswap-v3-subgraph",
+  "name": "@etcswap/v3-subgraph",
   "version": "1.0.0",
-  "repository": "https://github.com/graph-buildersdao/uniswap-v3-subgraph",
+  "description": "Subgraph for ETCswap V3 on Ethereum Classic",
+  "repository": "https://github.com/etcswap/v3-subgraph",
+  "homepage": "https://etcswap.org",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "build": "cross-env ts-node ./script/build",
