@@ -1,5 +1,5 @@
 {
   "network": "etc",
-  "factory": "TODO_DEPLOY_FACTORY_ADDRESS",
-  "startblock": "TODO_FACTORY_DEPLOY_BLOCK"
+  "factory": "0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC",
+  "startblock": "19714286"
 }
